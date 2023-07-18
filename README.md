@@ -2,6 +2,6 @@
 
 # How to run
 
-1. `npm install static-server`
-1. `./node_modules/static-server/bin/static-server.js`
+1. `npm install parcel`
+1. `npx parcel index.html`
 
